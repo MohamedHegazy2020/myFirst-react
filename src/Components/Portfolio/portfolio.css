@@ -1,0 +1,47 @@
+
+.in-line {
+
+
+    width: 100px;
+    height: 3px;
+    border-radius: 6px;
+}
+.modal-header ,.modal-footer {
+    border: unset !important;
+}
+
+.modal-body  {
+
+    padding:50px !important;
+}
+
+.exit-btn {
+    background-color: #1abc9c !important;
+    padding: 5px 40px !important;
+    
+}
+.layer {
+    background-color: #1abc9c00;
+    transition: all 0.25s;
+}
+.layer i {
+    display: none;
+}
+
+.inner-row:hover .layer {
+    background-color: #1abc9cd0;
+    cursor: pointer;
+    
+}
+
+.inner-row:hover .layer i {
+    display: block;
+    
+}
+.btn-close i {
+
+    margin: 0 -50px !important;
+}
+.btn-close:focus {
+    box-shadow: unset !important;
+}

@@ -1,0 +1,17 @@
+input {
+
+    width: 55%;
+    display: block;
+    border: none;
+  
+
+}
+
+input:focus {
+    outline: unset;
+}
+
+.form-btn {
+
+    background-color: #1abc9c !important;
+}

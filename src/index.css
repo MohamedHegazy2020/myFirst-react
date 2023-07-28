@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.active {
+
+  color: white !important;
+  background-color: #1abc9c;
+  border-radius: 5px;
+  padding: 10px 0;
+}
+
+h2,h1,h3,h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder !important;
+}
