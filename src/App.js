@@ -1,5 +1,4 @@
 import React from 'react'
-import Navbar from './Components/Navbar/Navbar'
 import {createBrowserRouter, RouterProvider} from 'react-router-dom'
 import Layout from './Components/Layout/Layout'
 import Portfolio from './Components/Portfolio/Portfolio'

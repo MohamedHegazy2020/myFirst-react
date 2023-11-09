@@ -1,9 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import "./Navbar.css"
-import img1 from "./avataaars.svg"
-import Portfolio from '../Portfolio/Portfolio'
-
 export default function Navbar(factive) {
   console.log(factive.factive);
  return <>
